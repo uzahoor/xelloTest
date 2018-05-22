@@ -10,12 +10,27 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Getting Started
 
 1. Copy this repository by cloning it
-```git clone https://github.com/uzahoor/xelloTest.git ```
-2. Open a terminal window inside the newly created 'xelloTest' folder
-``` cd xelloTest ```
-3. Install the dependencies with the following command
-``` npm install ```
-4. Run the development server with following command
-``` npm start ```
-5. Go to [http://localhost:4200](http://localhost:4200) to view the webpage
 
+```console
+git clone https://github.com/uzahoor/xelloTest.git
+```
+
+2. Open a terminal window inside the newly created 'xelloTest' folder
+
+```console
+cd xelloTest
+```
+
+3. Install the dependencies with the following command
+
+```console
+npm install
+```
+
+4. Run the development server with following command
+
+```console
+npm start
+```
+
+5. Go to [http://localhost:4200](http://localhost:4200) to view the webpage
